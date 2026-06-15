@@ -1,16 +1,43 @@
-## Hi there 👋
+<p align="center">
+  <img src="hi.gif" width="300" />
+</p>
+<h1 align="center">🌙 Welcome to My World</h1>
+---
+## 👋 Hello everyone!
+I'm **Zahra** — welcome to my little corner of the web.
 
-<!--
-**ZahraZaliFE/ZahraZaliFE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is going to be a place where I keep my small projects…  
+and maybe even big ones someday. Who knows! ✨
 
-Here are some ideas to get you started:
+I'm a **Junior Frontend Developer** exploring this path step by step.  
+Even though I'm still a beginner, I really enjoy learning and building things. 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I started my journey with **HTML** 🗺️ and **CSS** 🎨  
+and now I'm moving into **JavaScript** ⚡ — slowly but surely.
+
+Some of my projects (finished or in progress):
+
+- ☕ **Café Menu** website  
+- 📚 **My Novel** website  
+- ⭐ **Star Kids Group** website  
+
+---
+
+## 🛠️ Skills & Tools
+- HTML5  
+- CSS3 / Tailwind / Bootstrap  
+- JavaScript (learning)  
+- Git & GitHub (learning)  
+- Responsive Design  
+
+---
+
+## 🌿 Featured Project
+### **Greenora — Garden Design Landing Page**
+🔗 Live Demo: https://zahrazalife.github.io/Greenora/  
+📦 Repo: https://github.com/ZahraZaliFE/Greenora
+---
+
+<p align="center">
+  🌙 <i>Learning. Building. Evolving.</i> 🌙
+</p>
