@@ -19,7 +19,7 @@ Some of my projects (finished or in progress):
 
 - ☕ **Café Menu** website  
 - 📚 **My Novel** website  
-- ⭐ **Star Kids Group** website  
+- ⭐ **Stray Kids Group** website  
 
 ---
 
